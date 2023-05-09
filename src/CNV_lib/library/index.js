@@ -1,0 +1,5 @@
+export {createText} from './create/createText'
+export {createLine} from './create/createLine'
+export {createShape} from './create/createShape'
+export {createCircle} from './create/createCircle'
+export {createRect} from './create/createRect'
